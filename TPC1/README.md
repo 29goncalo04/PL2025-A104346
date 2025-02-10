@@ -50,9 +50,9 @@ O programa consiste na função `main()` que realiza as seguintes etapas:
 
 4. **Exemplo de Execução:**  
    - **Entrada:**
-    ```
-    on123eveiber1erivenrv1off=
-    ```
+     ```
+     on123eveiber1erivenrv1off=
+     ```
    - **Processamento:**  
      - Ativação com `"on"`; captura dos números: `123`, `1` e `1`.
      - Desativação com `"off"`: soma os números acumulados.
