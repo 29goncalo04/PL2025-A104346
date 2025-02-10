@@ -1,6 +1,6 @@
 # Processamento de Linguagens (PL) - PL2025-A104346 
 
-![Foto](Photo.png)
+![Foto](Photo.jpeg)
 
 ## Identificação  
 - **Nome:** Gonçalo Oliveira Cruz 
