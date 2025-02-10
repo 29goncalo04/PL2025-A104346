@@ -1,5 +1,8 @@
 # Somador_On_Off
 
+## Autor
+Gonçalo Oliveira Cruz (A104346)
+
 ## Descrição
 
 O "Somador_On_Off" é um programa em Python que analisa uma string fornecida e soma todas as sequências numéricas encontradas entre as marcações "on" e "off".  
@@ -46,7 +49,10 @@ O programa consiste na função `main()` que realiza as seguintes etapas:
      Se um caractere não numérico é encontrado e `numero_atual` não está vazia, o número acumulado é convertido para inteiro e adicionado à soma, e `numero_atual` é reiniciada.
 
 4. **Exemplo de Execução:**  
-   - **Entrada:** `on123eveiber1erivenrv1off=`  
+   - **Entrada:**
+    ```
+    on123eveiber1erivenrv1off=
+    ```
    - **Processamento:**  
      - Ativação com `"on"`; captura dos números: `123`, `1` e `1`.
      - Desativação com `"off"`: soma os números acumulados.
