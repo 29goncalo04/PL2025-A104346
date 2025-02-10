@@ -13,10 +13,10 @@
 
 ## Sobre este Repositório 📚
 
-Este repositório contém os Trabalhos de Casa Prática (TPCs) da unidade curricular de **Processamento de Linguagens (PL)**. Para cada TPC, existe uma pasta dedicada, nomeada no formato **TPCx** (sendo *x* a semana correspondente), que inclui:
+Este repositório contém os TPCs da unidade curricular de **Processamento de Linguagens (PL)**. Para cada TPC, existe uma pasta dedicada, nomeada no formato **TPCx** (sendo *x* a semana correspondente), que inclui:
 
 - **Soluções:** Ficheiros resultantes da resolução dos exercícios.  
-- **Documentação:** Um ficheiro explicativo (**README.md**) com um resumo do trabalho e os respetivos resultados.
+- **Documentação:** Um ficheiro (**README.md**) com um resumo do trabalho e os respetivos resultados.
 
 ---
 
