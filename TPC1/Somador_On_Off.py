@@ -1,7 +1,7 @@
 def main():
     texto = input("> ").lower()
     soma  = 0
-    soma_ativa = False
+    soma_ativa = True
     numero_atual = ""
     i = 0
 
@@ -21,7 +21,7 @@ def main():
             if numero_atual != "":
                 soma += int(numero_atual)
                 numero_atual = ""
-            print ("Soma: " + str(soma))
+            print (str(soma))
         elif soma_ativa:
             if texto[i].isdigit():
                 numero_atual += texto[i]
@@ -29,6 +29,7 @@ def main():
                 soma += int(numero_atual)
                 numero_atual = ""
         i+=1 
+    print (str(soma))
 
 if __name__ == "__main__":
     main()
