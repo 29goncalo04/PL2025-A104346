@@ -1,6 +1,8 @@
 # Somador_On_Off
 
 ## Autor
+![Foto de Perfil](../Photo.jpeg)
+
 Gonçalo Oliveira Cruz (A104346)
 
 ## Descrição

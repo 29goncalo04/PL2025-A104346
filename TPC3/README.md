@@ -1,6 +1,8 @@
 # Conversor
 
 ## Autor
+![Foto de Perfil](../Photo.jpeg)
+
 Gonçalo Oliveira Cruz (A104346)
 
 ---
