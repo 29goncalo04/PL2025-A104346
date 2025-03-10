@@ -1,0 +1,25 @@
+{
+    "stock": [
+      {"cod": "A23", "nome": "água 0.5L", "quant": 8, "preco": 0.7},
+      {"cod": "B12", "nome": "coca cola 1L", "quant": 15, "preco": 1.5},
+      {"cod": "C45", "nome": "sumo laranja 0.33L", "quant": 20, "preco": 1.2},
+      {"cod": "D78", "nome": "café", "quant": 30, "preco": 0.8},
+      {"cod": "E90", "nome": "chá", "quant": 12, "preco": 1.0},
+      {"cod": "F34", "nome": "sandes de frango", "quant": 10, "preco": 2.5},
+      {"cod": "G56", "nome": "sandes mista", "quant": 9, "preco": 2.2},
+      {"cod": "H67", "nome": "croissant misto", "quant": 7, "preco": 1.8},
+      {"cod": "I89", "nome": "bolo de chocolate", "quant": 5, "preco": 2.0},
+      {"cod": "J91", "nome": "pastel de nata", "quant": 12, "preco": 1.2},
+      {"cod": "K14", "nome": "batata frita pequena", "quant": 20, "preco": 1.5},
+      {"cod": "L28", "nome": "batata frita grande", "quant": 15, "preco": 2.5},
+      {"cod": "M39", "nome": "hambúrguer simples", "quant": 10, "preco": 3.5},
+      {"cod": "N50", "nome": "hambúrguer duplo", "quant": 8, "preco": 5.0},
+      {"cod": "O61", "nome": "hot dog", "quant": 14, "preco": 2.8},
+      {"cod": "P72", "nome": "pizza fatia", "quant": 18, "preco": 3.0},
+      {"cod": "Q83", "nome": "pizza inteira", "quant": 5, "preco": 12.0},
+      {"cod": "R94", "nome": "salada mista", "quant": 6, "preco": 3.5},
+      {"cod": "S05", "nome": "fruta fresca", "quant": 10, "preco": 1.5},
+      {"cod": "T16", "nome": "iogurte natural", "quant": 8, "preco": 1.2},
+      {"cod": "U27", "nome": "leite achocolatado", "quant": 12, "preco": 1.3}
+    ]
+}
