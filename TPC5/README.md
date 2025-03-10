@@ -96,7 +96,7 @@ Este programa em Python implementa um sistema interativo para o controlo de stoc
 
 ## Exemplo de Saída
 
->> LISTAR
+LISTAR
  ```
     cod    |           nome            |  quantidade  |  preço  
 --------------------------------------------------------------
@@ -123,24 +123,24 @@ Este programa em Python implementa um sistema interativo para o controlo de stoc
     U27         leite achocolatado            12          1.3
  ```
 
->> MOEDA 2e, 1e, 50c, 10c.
+MOEDA 2e, 1e, 50c, 10c.
  ```
 Saldo = 3e60c
  ```
 
->> SELECIONAR L28
+SELECIONAR L28
  ```
 Pode retirar o produto dispensado "batata frita grande"
 Saldo = 1e10c
  ```
 
->> SELECIONAR C45
+SELECIONAR C45
  ```
 Saldo insufuciente para satisfazer o seu pedido
 Saldo = 1e10c; Pedido = 1e20c
  ```
 
->> SAIR
+SAIR
  ```
 Pode retirar o troco: 1x 1e e 1x 10c.
 Até à próxima
